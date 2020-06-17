@@ -21,6 +21,7 @@ public class FirstClass {
 		
 		System.out.println(a.indexOf("P"));
 	System.out.println(a.substring(4, 8));
+	System.out.println(a.charAt(3));
 		
 		
 	}
